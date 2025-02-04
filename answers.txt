@@ -5,3 +5,8 @@ a) Pros:
    Cons:
    1) increased overhead
    2) lack of predictability
+
+b) Scrum Master: Leads the Agile development team and relays employee information from the Product Owner. The        Scrum Master should be proficient at implementing the Agile Methodology, organizing and assigning tasks, and      managing each Scrum team.
+
+   Product Owner: Manage the product backlog and ensure the company gains maximum value from the product.            Product owners should be skilled at maintaining a product backlog, collaborating with the Scrum Master, and       communicating the original vision for the product.
+
