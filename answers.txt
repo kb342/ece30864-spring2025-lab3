@@ -10,3 +10,10 @@ b) Scrum Master: Leads the Agile development team and relays employee informatio
 
    Product Owner: Manage the product backlog and ensure the company gains maximum value from the product.            Product owners should be skilled at maintaining a product backlog, collaborating with the Scrum Master, and       communicating the original vision for the product.
 
+c) Sprint Planning: Discuss how much effort each item on the product backlog will take and how much work the team    can complete in the upcoming sprint.
+
+   Daily stand-up: Discuss what everyone worked on yesterday and what they will work on today. Additionally,         discuss any blocks
+
+   Sprint Review: Get feedback from project stakeholders, celebrate accomplishments
+   
+
