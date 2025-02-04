@@ -15,5 +15,11 @@ c) Sprint Planning: Discuss how much effort each item on the product backlog wil
    Daily stand-up: Discuss what everyone worked on yesterday and what they will work on today. Additionally,         discuss any blocks
 
    Sprint Review: Get feedback from project stakeholders, celebrate accomplishments
+
+d) Story: A software system requirement that is expressed in a few short sentences.
+   Epic: Captures a large body of work that can be broken down into several smaller stories.
+   Task: A unit of work that cannot be described as an epic, story or bug. Should take less than a day.
+   Bug: Problem that needs to be fixed and may be blocking a story or task.
+   
    
 
