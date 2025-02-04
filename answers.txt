@@ -1,0 +1,7 @@
+a) Pros:
+   1) early and continuous delivery
+   2) stakeholder collaboration
+
+   Cons:
+   1) increased overhead
+   2) lack of predictability
